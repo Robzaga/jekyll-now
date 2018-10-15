@@ -46,23 +46,54 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   font-size: 30px;
-  a {
-    color: inherit;
+  a{
+    color: $darkGray;
+    text-decoration: none;
+  	cursor: pointer;
+    &:hover, &:active {
+      color: red;
+    }
   }
 }
 
 h2 {
   font-size: 24px;
+  a {
+    color: $blue;
+    text-decoration: none;
+  	cursor: pointer;
+    &:hover, &:active {
+      color: red;
+    }
+  }
 }
 
 h3 {
   font-size: 20px;
+  a {
+    color: $blue;
+    text-decoration: none;
+  	cursor: pointer;
+    &:hover, &:active {
+      color: red;
+    }
+  }
 }
 
 h4 {
   font-size: 18px;
-  color: $gray;
+  color: teal;
+  font-weight: bold;
+  a {
+    color: $blue;
+    text-decoration: none;
+  	cursor: pointer;
+    &:hover, &:active {
+      color: red;
+    }
+  }
 }
+
 
 p {
   margin: 15px 0;
@@ -73,7 +104,7 @@ a {
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $blue;
+    color: red;
   }
 }
 
@@ -282,6 +313,8 @@ footer {
   padding: 20px 0;
   text-align: center;
 }
+
+
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
