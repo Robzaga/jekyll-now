@@ -6,27 +6,30 @@ permalink: /experience/
 
 # Work
 
-### May 2018 - present <br> BAE Systems - Software Engineer
+### January 2019 - PRESENT <br> Lockheed Martin - Software Engineer
+<details>
+  <summary>
+    Show details
+  </summary>
+  <ul>
+    <li>Unit Testing Satellite software on virtual Linux system using Visual Studio and the Command Line</li>
+    <li>Learned to use Google Test/Mock and VNC Viewer easily and am working remotely in Agile environment</li>
+  </ul>
+</details>
+
+### December 2016 - January 2019 <br> BAE Systems - Software Engineer
 <details>
   <summary>
    Show details
   </summary>
   <ul>
-    <li>Working with simulation software for ICBM and in process of writing Developer’s Manual</li>
+    <li>Developed, as a team, the Process Model Toolkit (PMT) using C# and WPF</li>
+    <li>Increased model speed by 300% by eliminating redundant programming and implementing threading</li>
+    <li>Communicated directly with government customer face-to-face to make improvements to PMT</li>
+    <li>Created presentations for customer and internal employees to use as guide</li>
   </ul>
 </details> 
 
-### December 2016 - April 2018 <br> BAE Systems - Computer Science Technical Intern
-<details>
-  <summary>
-   Show details
-  </summary>
-  <ul>
-            <li>Developed, as a team, the Process Model Toolkit (PMT) and programmed in C# and WPF</li>
-          <li>Communicate directly with government customer over New START Treaty to make improvements to PMT and present to customer and internal employees</li>
-          <li>Attained clearance of SECRET and is current to attend meetings in Classified Environment</li>
-  </ul>
-</details> 
 
 ## Work Ethic
 I don’t stop until the job is done, and done right. I go for “outstanding” in everything I do. I put in the extra hours to get things right, giving attention to detail and devotion to excellence. My passion shows in how hard I work and it shows in the results I achieve. I truly believe that my successes in life have come from my relentless hard working spirit. 
